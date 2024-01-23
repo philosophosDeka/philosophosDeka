@@ -3,7 +3,6 @@
 안녕하세요.
 
 ## Skill
--------------------
 
 #### I LOVE
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
