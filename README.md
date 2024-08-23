@@ -38,9 +38,9 @@
 [PandaOffice](https://github.com/orgs/ErrorCode-510/repositories)
 <br>
 
-- 대학생 전용 커뮤니티 앱 Polintech
-[서버 링크](https://github.com/flysking/PolintechServerCode)
-[클라이언트 링크](https://github.com/flysking/polintechServer)
+- 대학생 전용 커뮤니티 앱 
+[Polintech 서버](https://github.com/flysking/PolintechServerCode) | 
+[Polintech 클라이언트](https://github.com/flysking/polintechServer)
 <br>
 
 <!--
