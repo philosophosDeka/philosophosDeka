@@ -30,13 +30,13 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### << Team Project >>
-- 친환경 크라우드 펀딩 사이트 ECOECO
-[ECOECO 링크](https://github.com/EcoFriendly-Recycle/ECOECO)
+- 친환경 크라우드 펀딩 사이트 ECOECO<br>
+[ECOECO 링크](https://github.com/EcoFriendly-Recycle/ECOECO)
 
-- 기업 내부 인사관리 최적화를 위한 HR 전문 ERP 시스템 PandaOffice
+- 기업 내부 인사관리 최적화를 위한 HR 전문 ERP 시스템 PandaOffice<br>
 [PandaOffice 링크](https://github.com/orgs/ErrorCode-510/repositories)
 
-- 대학생 전용 커뮤니티 앱 Polintech
+- 대학생 전용 커뮤니티 앱 Polintech<br>
 [Polintech 서버 링크](https://github.com/flysking/PolintechServerCode)
 [Polintech 클라이언트 링크](https://github.com/flysking/polintechServer)
 
