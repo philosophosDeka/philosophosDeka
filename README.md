@@ -1,6 +1,4 @@
-## Hi there 👋
-
-안녕하세요.
+## 안녕하세요👋 개발공부중입니다.
 
 ## Skill
 
@@ -31,6 +29,16 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+#### << Team Project >>
+- 친환경 크라우드 펀딩 사이트 ECOECO
+[ECOECO 링크](https://github.com/EcoFriendly-Recycle/ECOECO)
+
+- 기업 내부 인사관리 최적화를 위한 HR 전문 ERP 시스템 PandaOffice
+[PandaOffice 링크](https://github.com/orgs/ErrorCode-510/repositories)
+
+- 대학생 전용 커뮤니티 앱 Polintech
+[Polintech 서버 링크](https://github.com/flysking/PolintechServerCode)
+[Polintech 클라이언트 링크](https://github.com/flysking/polintechServer)
 
 <!--
 **philosophosDeka/philosophosDeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
